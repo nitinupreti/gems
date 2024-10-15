@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p10903-e844381.adobeaemcloud.com/bin/franklin.delivery/nitinupreti/gems/main
+    url: "https://author-p10903-e844381.adobeaemcloud.com/bin/franklin.delivery/nitinupreti/gems/main"
     type: "markup"
     suffix: ".md.html"
