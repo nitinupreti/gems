@@ -1,5 +1,7 @@
 {
   "mappings": [
-    "/content/testform/:/"
+    "/content/testform/:/",
+    "/content/testform/configuration:/.helix/config.json",
+    "/content/testform/metadata:/metadata.json"
   ]
 }
